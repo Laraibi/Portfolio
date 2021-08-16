@@ -1,0 +1,12 @@
+ul#listSkillsImg{
+    list-style: none;
+}
+ul#listSkillsImg li{
+    width: 4rem;
+    display: inline-block;
+    margin: 4rem;
+}
+ul#listSkillsImg li img{
+    width: 4rem;
+    height: 4rem;
+}
